@@ -23,7 +23,7 @@
 <p></p>
 
 <div align="center" style="text-align: center;">
-  依赖机器人
+  依赖机器人，用于检测、创建PR、测试等
 </div>
 
 <p></p>
@@ -105,6 +105,7 @@
 
 <details>
 <summary>点击展开</summary>
+
 git remote add gitee https://gitee.com/xuxiaowei-com-cn/dependabot.git
 
 git remote add gitlab https://gitlab.com/xuxiaowei-com-cn/dependabot.git
